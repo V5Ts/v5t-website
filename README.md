@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Preview
+<img width="1421" alt="Ảnh màn hình 2023-08-08 lúc 17 45 20" src="https://github.com/V5Ts/v5t-website/assets/63950809/b3974a7f-51aa-43ca-ae13-5c845c7a95a1">
 
 ## Getting Started
 
